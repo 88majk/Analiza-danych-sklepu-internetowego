@@ -1,0 +1,24 @@
+Dla załączonego pliku z danym w formacie csv, należy wykonać następujące zadania:
+
+
+
+Nie wykorzystując biblioteki pandas (ani żadnej podobnej)
+
+
+	1.1. Funkcja zwracająca całkowite wydatki wszystkich kupujących w każdym sezonie i posortować w kolejności malejącej. 
+	1.2. Funkcja zwracająca 3 najczęściej kupowane kolory torebek (Handbag)
+	1.3. Funkcja zwracająca mężczyzn, w wieku 18-25 lat, którzy zakupili bluzki (Blouse) w rozmiarze XL 
+	1.4. Wykres kołowy prezentujący rozkład rodzajów kupowanych ubrań wśród kobiet w wieku 25-45 lat.
+	1.5. Rozkład wieku w danych w postaci histogramu
+	1.6. Dwa własne pomysły na aspekt do analizy (opisać w sprawozdaniu co chcemy analizować i dlaczego takie informacje mogą być dla nas przydatne) i jego rozwiązanie
+
+
+Korzystając z biblioteki pandas (lub podobnej)
+
+
+	2.1. Funkcja zwracająca całkowite wydatki kupujących w podziale na rodzaj produktu (Category)
+	2.2. Funkcja zwracająca 5 miast, w których kupowano najwięcej sukienek (Dresses)
+	2.3. Funkcja zwracająca kobiety, w wieku poniżej 40 lat, które posiadają subskrypcję dokonały więcej niż 15 zakupów (Previous Purchases)
+	2.4. Wykres przedstawiający rozkład metod płatności w zależności od wieku osoby
+	2.5. Rozkład rodzaju dostawy (Shipping Type) wśród danych w postaci histogramu 
+	2.6. Dwa własne pomysły na aspekt do analizy (opisać w sprawozdaniu co chcemy analizować i dlaczego takie informacje mogą być dla nas przydatne) i jego rozwiązanie
